@@ -30,11 +30,15 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+<<<<<<< HEAD
             this.textBox2 = new System.Windows.Forms.TextBox();
+=======
+>>>>>>> 20f774a0285cbdaa0f8777e0ae5fbe5dd686967a
             this.SuspendLayout();
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(116, 159);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(76, 37);
@@ -56,13 +60,31 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(110, 22);
             this.textBox2.TabIndex = 2;
+=======
+            this.button1.Location = new System.Drawing.Point(93, 163);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(81, 31);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(53, 50);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(174, 22);
+            this.textBox1.TabIndex = 1;
+>>>>>>> 20f774a0285cbdaa0f8777e0ae5fbe5dd686967a
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(282, 255);
+<<<<<<< HEAD
             this.Controls.Add(this.textBox2);
+=======
+>>>>>>> 20f774a0285cbdaa0f8777e0ae5fbe5dd686967a
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
@@ -76,6 +98,9 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
+<<<<<<< HEAD
         private System.Windows.Forms.TextBox textBox2;
+=======
+>>>>>>> 20f774a0285cbdaa0f8777e0ae5fbe5dd686967a
     }
 }
